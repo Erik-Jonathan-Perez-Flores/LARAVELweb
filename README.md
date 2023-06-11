@@ -11,13 +11,16 @@
 - Composer version 2.4.2
 
 - composer install
-- copy NUL .env
+- copy NUL .env or create the archive .env and copy contend of archive .env.example, modific name of data base (crud)
 - copy contend of archive .env.example to .env 
 - php artisan key:generate
+
+- momentarily remove the reg_tour migration
+- recover the reg_tour migration (so that it does not cause problems with foreign keys)
+- php artisan migrate
 - php artisan serve
 
 Laravel is intalled correctly :D
-- php artisan migrate
 
 ## Version XAMPP
 
