@@ -16,6 +16,11 @@
 - php artisan serve
 
 Laravel is intalled correctly :D
+## Version XAMPP
+
+-mysql  Ver 15.1 Distrib 10.4.24-MariaDB, for Win64 (AMD64), source revision b4477ae73c836592268f7fb231eeb38a4fa83bb6
+-PHP Version 7.4.29
+-XAMPP for Windows 7.4.29
 
 ## About Laravel
 
