@@ -8,6 +8,7 @@
 </p>
 
 ## Install proyect Laravel (clone)
+- Composer version 2.4.2
 
 - composer install
 - copy NUL .env
