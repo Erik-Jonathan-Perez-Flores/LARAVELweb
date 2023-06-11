@@ -16,6 +16,7 @@
 - php artisan serve
 
 Laravel is intalled correctly :D
+- php artisan migrate
 
 ## Version XAMPP
 
